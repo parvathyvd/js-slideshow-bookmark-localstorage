@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03cae64d-55cc-426b-a260-7a4842043b3d" name="slideshow" url="http://realwordpressdevelopment.com">
+        <fileTransfer host="realwordpressdevelopment.com" port="21" rootFolder="/slideshow-js">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
